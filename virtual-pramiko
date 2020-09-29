@@ -1,0 +1,4 @@
+1. python -m  venv Evn
+2. virtualenv Env
+3. Evn\Scripts\activate.bat
+4. pip install paramiko
