@@ -2,3 +2,10 @@
 2. virtualenv Env
 3. Evn\Scripts\activate.bat
 4. pip install paramiko
+
+
+# Python 2:
+$ virtualenv virtualA
+
+# Python 3:
+$ python3 -m venv virtualB
